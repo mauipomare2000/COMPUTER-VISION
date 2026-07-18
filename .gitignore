@@ -1,0 +1,29 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Model weights / media assets (too large for GitHub)
+*.pt
+*.task
+*.tflite
+*.h5
+*.onnx
+*.zip
+
+# Runtime outputs
+custom/output/
+custom/runs/
+custom/models/
+models/
+
+# Dataset images (keep labels + data.yaml)
+custom/dataset/**/images/
+custom/media/
+
+# Caches
+*.cache
+.DS_Store
+Thumbs.db

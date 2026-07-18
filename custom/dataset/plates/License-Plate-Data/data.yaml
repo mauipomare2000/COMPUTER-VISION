@@ -1,0 +1,8 @@
+path: C:/Users/mauim/Documents/CODE/LLM/custom/dataset/plates/License-Plate-Data
+train: train/images
+val: test/images
+test: test/images
+
+nc: 1
+names:
+  0: license_plate
