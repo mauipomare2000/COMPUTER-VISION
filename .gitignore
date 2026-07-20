@@ -27,3 +27,4 @@ custom/media/
 *.cache
 .DS_Store
 Thumbs.db
+Droid/config.yaml

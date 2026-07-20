@@ -1,0 +1,7 @@
+path: C:/Users/mauim/Documents/CODE/LLM/Droid/dataset/penny
+train: train/images
+val: val/images
+
+nc: 1
+names:
+  0: penny
